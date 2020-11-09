@@ -1,4 +1,6 @@
 import React from "react"
+import "bulma/css/bulma.min.css"
+import "prismjs/themes/prism.css"
 
 import Sidebar from "components/Sidebar"
 

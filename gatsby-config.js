@@ -20,6 +20,7 @@ module.exports = {
         plugins: [`gatsby-remark-images`, `gatsby-remark-prismjs`],
       },
     },
+    `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
