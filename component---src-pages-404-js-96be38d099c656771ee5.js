@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("Wbzz"),o=n("ntAx"),r=n("DGZL");t.default=function(e){var t=e.location;return l.a.createElement(o.a,{location:t},l.a.createElement(r.a,{title:"Не найдено"}),l.a.createElement("h1",null,"Эта страница не найдена"),l.a.createElement("p",null,l.a.createElement(c.Link,{to:"/"},"Вернуться назад на главную")))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-96be38d099c656771ee5.js.map
